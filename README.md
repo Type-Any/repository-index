@@ -2,4 +2,4 @@
 
 ## Type-Any repository index
 
-(Coming soon)
+(Coming soon) :tada:
