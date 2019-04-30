@@ -8,6 +8,12 @@
 
 - Repo : https://github.com/Type-Any/Any-Poem.git
 
-### [Any-Todo](https://github.com/Type-Any/Any-Todo)
+### [Any-Blog](https://github.com/Type-Any/Any-Blog)
 
-- Repo : https://github.com/Type-Any/Any-Todo
+- Repo : https://github.com/Type-Any/Any-Blog
+
+### [Any-Lotto](https://github.com/Type-Any/Any-Lotto)
+
+Lotto 번호 추천 모바일 서비스
+
+- Repo : https://github.com/Type-Any/Any-Lotto
